@@ -1,0 +1,7 @@
+Electronic Store Management System
+Java OOP Case Study
+
+Student Name: Santosh Maddikatla
+Roll No.: 2646
+
+Note: Update this file with your own GitHub repository URL after uploading your project.
