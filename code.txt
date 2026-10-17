@@ -4,4 +4,4 @@ Java OOP Case Study
 Student Name: Santosh Maddikatla
 Roll No.: 2646
 
-Note: https://github.com/maddikatlasantosh/Electronic_Store_Assignment.
+https://github.com/maddikatlasantosh/Electronic_Store_Assignment.
